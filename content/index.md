@@ -6,6 +6,6 @@ Description: This is our index page.
 Kasper Holgerssons portfolio
 ==========================
 
-The source for this page is in `content/index.md`.
+Jag heter Kasper Holgersson och är född i Uppsala! Har nyligen flyttat hit till Karlskrona för att studera här på BTH.
 
-This is a sample home page written in markdown with some frontmatter defined.
+<img src="image/jag.png">
