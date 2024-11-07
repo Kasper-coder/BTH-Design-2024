@@ -167,7 +167,7 @@ body {
     transition: color 0.4s ease;
 }
 
-.socials {
+.social {
     list-style: none;
     display: flex;
     align-items: center;
@@ -176,21 +176,21 @@ body {
     padding: 0;
 }
 
-.socials li {
+.social li {
     margin: 0 10px;
 }
 
-.socials a {
+.social a {
     text-decoration: none;
     color: white;
 }
 
-.socials a i {
+.social a i {
     font-size: 2rem;
     transition: color 0.4s ease;
 }
 
-.socials a:hover i {
+.social a:hover i {
     color: #c0c0c0;
 }
 
