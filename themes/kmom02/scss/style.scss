@@ -1,24 +1,24 @@
+@use '../../node_modules/normalize.css/normalize';
+@use 'variables';
+
+@use 'typography';
+
+@use 'container';
+@use 'header';
+@use 'footer';
+
+@use 'blockquotes';
+@use 'code';
+
+body {
+  background-color: variables.$background-color;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-@import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/fontawesome';
 @import '../../shared/fontawesome/scss/brands';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
-
-@import '../../node_modules/normalize.css/normalize';
-@import 'variables';
-
-@import 'typography';
-
-@import 'container';
-@import 'header';
-@import 'footer';
-
-@import 'blockquotes';
-@import 'code';
-
-body {
-  background-color: $background-color;
-}
