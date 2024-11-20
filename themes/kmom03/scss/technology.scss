@@ -1,0 +1,56 @@
+.landingpage {
+    display: grid;
+    gap: 1em 1em;
+}
+
+.landingpage h1 {
+    grid-column: span 3;
+    justify-self: center;
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 1.96rem;
+}
+
+.box:hover {
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.technology {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+    overflow: hidden;
+}
+
+.technology .article {
+    width: 60%;
+}
+
+.technology .sidebar {
+    width: 30%;
+    height: 100%;
+    padding: 5px;
+    border-right: 5px solid #b9b9b9;
+}
+
+@media (max-width: 485px) {
+    .landingpage h1 {
+        grid-column: span 1;
+    }
+
+    .technology .sidebar {
+        display: none;
+    }
+
+    .technology .article {
+        width: 90%;
+    }
+
+    .technology {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
