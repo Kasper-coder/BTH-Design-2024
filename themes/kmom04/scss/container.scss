@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: $main-background-color;
+}
+
+.main {
+  max-width: 60rem;
+  overflow: auto;
+  padding: 2rem;
+  margin: 0 auto;
+  flex: 1 0 auto;
+  overflow: hidden;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 370px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 13px;
+  }
+
+  img {
+    width: 200px;
+    height: 180px;
+  }
+}

@@ -9,8 +9,14 @@
 }
 
 .box {
-  border: 1px solid #ccc;
+  border: 1px solid #a8a8a8;
+  background-color: $box-color;
   padding: 1.96rem;
+  transition: all 0.5s ease;
+}
+
+.box a {
+  color: #222;
 }
 
 .box:hover {
