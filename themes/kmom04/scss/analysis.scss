@@ -1,0 +1,62 @@
+.landingpage {
+  display: grid;
+  gap: 1em;
+}
+
+.landingpage h1 {
+  grid-column: span 3;
+  justify-self: center;
+}
+
+.box {
+  border: 1px solid #a8a8a8;
+  background-color: $box-color;
+  padding: 1.96rem;
+  transition: all 0.5s ease;
+}
+
+.box a {
+  color: #222;
+}
+
+.box:hover {
+  box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.analysis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  overflow: hidden;
+}
+
+.analysis .article {
+  width: 60%;
+}
+
+.analysis .sidebar {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  border-right: 5px solid #b9b9b9;
+}
+
+@media (max-width: 485px) {
+  .landingpage h1 {
+    grid-column: span 1;
+  }
+
+  .analysis .sidebar {
+    display: none;
+  }
+
+  .analysis .article {
+    width: 90%;
+  }
+
+  .analysis {
+    flex-direction: column;
+    justify-content: center;
+  }
+}

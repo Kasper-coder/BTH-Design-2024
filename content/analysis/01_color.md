@@ -1,7 +1,7 @@
 ---
 Title: Färgteori
 Descritption: Page about Color theory
-Template: report
+Template: analysis
 ---
 
 Färgteori
@@ -21,7 +21,7 @@ Det använder jag för att få färgerna som förekommer på hemsidorna. Sedan a
 
 HTLV
 ---------------
-<img src="../../image/hltv.png" width="287px" height="248px">
+<img src="../image/hltv.png" width="287px" height="248px">
 Hemsidan använder sig av färgpaletten:
 <table style="border-spacing: 4px; border-collapse: separate">
     <tr>
@@ -38,7 +38,7 @@ Jag tycker att hemsidans färgval och val av typsnitt passar profilen hemsidan v
 
 FACEIT
 ---------------
-<img src="../../image/faceit.png" width="287px" height="248px">
+<img src="../image/faceit.png" width="287px" height="248px">
 Hemsidan använder sig av färgpaletten:
 <table style="border-spacing: 4px; border-collapse: separate">
     <tr>
@@ -54,7 +54,7 @@ Jag tycker att hemsidans färgval och val av typsnittet passer helt okej vad fö
 
 Liquipedia
 ---------------
-<img src="../../image/liquipedia.png" width="287px" height="248px">
+<img src="../image/liquipedia.png" width="287px" height="248px">
 Hemsidan använder sig av färgpaletten:
 <table style="border-spacing: 4px; border-collapse: separate">
     <tr>
