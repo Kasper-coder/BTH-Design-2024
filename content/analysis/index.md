@@ -12,7 +12,7 @@ Analyser
 </div>
 
 <div class="box">
-<a href="%base_url%?analysis/02_load">Bilder</a>
+<a href="%base_url%?analysis/02_load">Laddningstid</a>
 </div>
 
 <div class="box">
