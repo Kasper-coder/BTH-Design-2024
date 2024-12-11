@@ -16,7 +16,7 @@ Teknologier
 </div>
 
 <div class="box">
-<a href="%base_url%?technology/javascript">JavaScript</a>
+<a href="%base_url%?technology/technologies/javascript">JavaScript</a>
 </div>
 
 <div class="box">

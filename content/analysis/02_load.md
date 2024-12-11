@@ -19,30 +19,42 @@ För att utföra denna analys så använder jag mig av <a href="https://pagespee
 
 Nike
 ---------------
-<img src="../image/nike.png" width="287px" height="248px">
-För sidorna nike har jag valt de här sidorna: <a href="https://www.nike.com/se/en/w/new-3n82y">New & Featured</a>, <a href="https://www.nike.com/se/en/men">Men</a> och <a href="https://www.nike.com/se/en/women">Women</a> 
+<div>
+    <img src="../image/nike.webp" alt="Nike Screenshot">
+    <div>
+        <p>För sidorna nike har jag valt de här sidorna: <a href="https://www.nike.com/se/en/w/new-3n82y">New & Featured</a>, <a href="https://www.nike.com/se/en/men">Men</a> och <a href="https://www.nike.com/se/en/women">Women</a></p>
+    </div>
+</div>
 
 <div class="embed-container">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ69NHNUSDWjAbEvAOpIiSVotYVoPcUzFfWYcuuzFFb4ANgoViN80SW1uoXzE7lbxCZcCkDmET44jkp/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
-Hemsidan skulle lätt kunna förbättras om bild storlekerna förmindras och storleken på själva hemsidan.
+<p>Hemsidan skulle lätt kunna förbättras om bild storlekerna förmindras och storleken på själva hemsidan.</p>
 
 Youtube
 ---------------
-<img src="../image/youtube.png" width="287px" height="248px">
-För sidorna youtube har jag valt de här sidorna: <a href="https://www.youtube.com/">Hem</a>, <a href="https://www.youtube.com/feed/subscriptions">Prenumeranter</a> och <a href="https://www.youtube.com/feed/history">Historia</a> 
+<div>
+    <img src="../image/youtube.webp" alt="Youtube Screenshot">
+    <div>
+        <p>För sidorna youtube har jag valt de här sidorna: <a href="https://www.youtube.com/">Hem</a>, <a href="https://www.youtube.com/feed/subscriptions">Prenumeranter</a> och <a href="https://www.youtube.com/feed/history">Historia</a></p>
+    </div>
+</div>
 
 <div class="embed-container">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ69NHNUSDWjAbEvAOpIiSVotYVoPcUzFfWYcuuzFFb4ANgoViN80SW1uoXzE7lbxCZcCkDmET44jkp/pubhtml?gid=660326197&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
-Hemsidan skulle lätt kunna förbättras med att förbättra JS laddningstid och ett för stort DOM som gör att det tar mer minne.
+<p>Hemsidan skulle lätt kunna förbättras med att förbättra JS laddningstid och ett för stort DOM som gör att det tar mer minne.</p>
 
 Willys
 ---------------
-<img src="../image/willys.png" width="287px" height="248px">
-För sidorna willys har jag valt de här sidorna: <a href="https://www.willys.se/">Hem</a>, <a href="https://www.willys.se/erbjudanden/butik">Erbjudanden</a> och <a href="https://www.willys.se/butik-sok">Hitta butik</a> 
+<div>
+    <img src="../image/willys.webp" alt="Willys Screenshot">
+    <div>
+        <p>För sidorna willys har jag valt de här sidorna: <a href="https://www.willys.se/">Hem</a>, <a href="https://www.willys.se/erbjudanden/butik">Erbjudanden</a> och <a href="https://www.willys.se/butik-sok">Hitta butik</a></p>
+    </div>
+</div>
 
 <div class="embed-container">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ69NHNUSDWjAbEvAOpIiSVotYVoPcUzFfWYcuuzFFb4ANgoViN80SW1uoXzE7lbxCZcCkDmET44jkp/pubhtml?gid=1671619069&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

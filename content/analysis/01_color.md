@@ -21,55 +21,64 @@ Det använder jag för att få färgerna som förekommer på hemsidorna. Sedan a
 
 HTLV
 ---------------
-<img src="../image/hltv.png" width="287px" height="248px">
-Hemsidan använder sig av färgpaletten:
-<table style="border-spacing: 4px; border-collapse: separate">
-    <tr>
-        <td style="height: 50px; width: 50px; background-color: #2D3945; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #45515F; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #1B1F23; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #2D3844; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #59728E; border: 1px solid #a8a8a8">
-    </tr>
-</table>
-Hemsidan använder sig av ett monokromatiskt färgschema. De använder sig av typsnittet "Open sans" för sina headings och för sin brödtext.
-
-Jag tycker att hemsidans färgval och val av typsnitt passar profilen hemsidan vill ha.
+<div>
+  <img src="../image/hltv.webp" alt="HLTV Screenshot">
+  <div>
+    <p>Hemsidan använder sig av färgpaletten:</p>
+    <table style="border-spacing: 4px; border-collapse: separate">
+        <tr>
+            <td style="height: 30px; width: 30px; background-color: #2D3945; border: 1px solid #a8a8a8"></td>
+            <td style="height: 30px; width: 30px; background-color: #45515F; border: 1px solid #a8a8a8"></td>
+            <td style="height: 30px; width: 30px; background-color: #1B1F23; border: 1px solid #a8a8a8"></td>
+            <td style="height: 30px; width: 30px; background-color: #2D3844; border: 1px solid #a8a8a8"></td>
+            <td style="height: 30px; width: 30px; background-color: #59728E; border: 1px solid #a8a8a8"></td>
+        </tr>
+    </table>
+    <p>Hemsidan använder sig av ett monokromatiskt färgschema. De använder sig av typsnittet "Open sans" för sina headings och för sin brödtext.</p>
+    <p>Jag tycker att hemsidans färgval och val av typsnitt passar profilen hemsidan vill ha.</p>
+  </div>
+</div>
 
 FACEIT
 ---------------
-<img src="../image/faceit.png" width="287px" height="248px">
-Hemsidan använder sig av färgpaletten:
-<table style="border-spacing: 4px; border-collapse: separate">
-    <tr>
-        <td style="height: 50px; width: 50px; background-color: #060606; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #121212; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #131313; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #242424; border: 1px solid #a8a8a8">
-    </tr>
-</table>
-Hemsidan använder sig av ett analogt färgschema för att ge en mörk sammanhängande känsla. De använder sig av typsnittet "Play" för sina headings och för sin brödtext.
-
-Jag tycker att hemsidans färgval och val av typsnittet passer helt okej vad för profil hemsidan vill ha.
+<div>
+  <img src="../image/faceit.webp" alt="Faceit screenshot">
+  <div>
+    <p>Hemsidan använder sig av färgpaletten:</p>
+    <table style="border-spacing: 4px; border-collapse: separate">
+        <tr>
+            <td style="height: 30px; width: 30px; background-color: #060606; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #121212; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #131313; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #242424; border: 1px solid #a8a8a8">
+        </tr>
+    </table>
+    <p>Hemsidan använder sig av ett analogt färgschema för att ge en mörk sammanhängande känsla. De använder sig av typsnittet "Play" för sina headings och för sin brödtext.</p>
+    <p>Jag tycker att hemsidans färgval och val av typsnittet passer helt okej vad för profil hemsidan vill ha.</p>
+  </div>
+</div>
 
 Liquipedia
 ---------------
-<img src="../image/liquipedia.png" width="287px" height="248px">
-Hemsidan använder sig av färgpaletten:
-<table style="border-spacing: 4px; border-collapse: separate">
-    <tr>
-        <td style="height: 50px; width: 50px; background-color: #466800; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #D8EFA9; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #FFFFCC; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #E4F4C5; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #DBE6F2; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #EAF0F8; border: 1px solid #a8a8a8">
-        <td style="height: 50px; width: 50px; background-color: #FDFCFF; border: 1px solid #a8a8a8">
-    </tr>
-</table>
-Hemsidan använder sig av ett analogt färgschema med flera färger för att göra hemsidan sammanhängande och ge en sammanhängande känsla. De använder sig av typsnittet "Open sans" för sina headings och för sin brödtext.
-
-Jag tycker att hemsidans färgval inte riktigt passar den profil hemsidan vill ge fast typsnittet tycker jag passar till den profil hemsidan vill ge.
+<div>
+  <img src="../image/liquipedia.webp" alt="Liquipedia screenshot">
+  <div>
+    <p>Hemsidan använder sig av färgpaletten:</p>
+    <table style="border-spacing: 4px; border-collapse: separate">
+        <tr>
+            <td style="height: 30px; width: 30px; background-color: #466800; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #D8EFA9; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #FFFFCC; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #E4F4C5; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #DBE6F2; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #EAF0F8; border: 1px solid #a8a8a8">
+            <td style="height: 30px; width: 30px; background-color: #FDFCFF; border: 1px solid #a8a8a8">
+        </tr>
+    </table>
+    <p>Hemsidan använder sig av ett analogt färgschema med flera färger för att göra hemsidan sammanhängande och ge en sammanhängande känsla. De använder sig av typsnittet "Open sans" för sina headings och för sin brödtext.</p>
+    <p>Jag tycker att hemsidans färgval inte riktigt passar den profil hemsidan vill ge fast typsnittet tycker jag passar till den profil hemsidan vill ge.</p>
+  </div>
+</div>
 
 Analys
 ---------------
